@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="RestApi.basics4">
+        <methods>
+          <include name="postData"/>
+        </methods>
+      </class> <!-- RestApi.basics4 -->
+      <class name="RestApi.basics5">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- RestApi.basics5 -->
+      <class name="RestApi.basics7">
+        <methods>
+          <include name="jiraApi1"/>
+        </methods>
+      </class> <!-- RestApi.basics7 -->
+      <class name="RestApi.basics6">
+        <methods>
+          <include name="jiraApi"/>
+        </methods>
+      </class> <!-- RestApi.basics6 -->
+      <class name="RestApi.basics">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- RestApi.basics -->
+      <class name="RestApi.basics8">
+        <methods>
+          <include name="jiraApi1"/>
+        </methods>
+      </class> <!-- RestApi.basics8 -->
+      <class name="RestApi.basics2">
+        <methods>
+          <include name="postData"/>
+        </methods>
+      </class> <!-- RestApi.basics2 -->
+      <class name="RestApi.basics3">
+        <methods>
+          <include name="addAndDelete"/>
+          <include name="envData"/>
+        </methods>
+      </class> <!-- RestApi.basics3 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

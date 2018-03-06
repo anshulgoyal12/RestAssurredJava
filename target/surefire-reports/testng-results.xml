@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50744" started-at="2018-01-30T09:01:10Z" finished-at="2018-01-30T09:02:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50744" started-at="2018-01-30T09:01:10Z" finished-at="2018-01-30T09:02:01Z">
+      <class name="RestApi.basics9">
+        <test-method status="PASS" signature="createTweet()[pri:0, instance:RestApi.basics9@ee2816]" name="createTweet" duration-ms="847" started-at="2018-01-30T14:31:16Z" finished-at="2018-01-30T14:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTweet -->
+        <test-method status="PASS" signature="deleteTweet()[pri:0, instance:RestApi.basics9@ee2816]" name="deleteTweet" duration-ms="42662" started-at="2018-01-30T14:31:17Z" finished-at="2018-01-30T14:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTweet -->
+        <test-method status="PASS" signature="getLatestTweet()[pri:0, instance:RestApi.basics9@ee2816]" name="getLatestTweet" duration-ms="659" started-at="2018-01-30T14:32:00Z" finished-at="2018-01-30T14:32:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLatestTweet -->
+      </class> <!-- RestApi.basics9 -->
+      <class name="RestApi.basics5">
+        <test-method status="PASS" signature="test1()[pri:0, instance:RestApi.basics5@1700915]" name="test1" duration-ms="739" started-at="2018-01-30T14:31:15Z" finished-at="2018-01-30T14:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- RestApi.basics5 -->
+      <class name="RestApi.basics6">
+        <test-method status="PASS" signature="jiraApi()[pri:0, instance:RestApi.basics6@1355449]" name="jiraApi" duration-ms="487" started-at="2018-01-30T14:31:14Z" finished-at="2018-01-30T14:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jiraApi -->
+      </class> <!-- RestApi.basics6 -->
+      <class name="RestApi.basics7">
+        <test-method status="PASS" signature="jiraApi1()[pri:0, instance:RestApi.basics7@1d7b7bf]" name="jiraApi1" duration-ms="316" started-at="2018-01-30T14:31:16Z" finished-at="2018-01-30T14:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jiraApi1 -->
+      </class> <!-- RestApi.basics7 -->
+      <class name="RestApi.basics8">
+        <test-method status="PASS" signature="jiraApi1()[pri:0, instance:RestApi.basics8@1de60b4]" name="jiraApi1" duration-ms="647" started-at="2018-01-30T14:31:15Z" finished-at="2018-01-30T14:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jiraApi1 -->
+      </class> <!-- RestApi.basics8 -->
+      <class name="RestApi.basics2">
+        <test-method status="PASS" signature="postData()[pri:0, instance:RestApi.basics2@267ef4]" name="postData" duration-ms="2764" started-at="2018-01-30T14:31:10Z" finished-at="2018-01-30T14:31:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+      </class> <!-- RestApi.basics2 -->
+      <class name="RestApi.basics3">
+        <test-method status="PASS" signature="envData()[pri:0, instance:RestApi.basics3@1046283]" name="envData" is-config="true" duration-ms="9" started-at="2018-01-30T14:31:10Z" finished-at="2018-01-30T14:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envData -->
+        <test-method status="PASS" signature="envData()[pri:0, instance:RestApi.basics8@1de60b4]" name="envData" is-config="true" duration-ms="0" started-at="2018-01-30T14:31:10Z" finished-at="2018-01-30T14:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envData -->
+        <test-method status="PASS" signature="envData()[pri:0, instance:RestApi.basics7@1d7b7bf]" name="envData" is-config="true" duration-ms="0" started-at="2018-01-30T14:31:10Z" finished-at="2018-01-30T14:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envData -->
+        <test-method status="PASS" signature="envData()[pri:0, instance:RestApi.basics6@1355449]" name="envData" is-config="true" duration-ms="0" started-at="2018-01-30T14:31:10Z" finished-at="2018-01-30T14:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envData -->
+        <test-method status="PASS" signature="addAndDelete()[pri:0, instance:RestApi.basics3@1046283]" name="addAndDelete" duration-ms="530" started-at="2018-01-30T14:31:14Z" finished-at="2018-01-30T14:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAndDelete -->
+      </class> <!-- RestApi.basics3 -->
+      <class name="RestApi.basics4">
+        <test-method status="PASS" signature="postData()[pri:0, instance:RestApi.basics4@28ffa4]" name="postData" duration-ms="292" started-at="2018-01-30T14:31:13Z" finished-at="2018-01-30T14:31:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+      </class> <!-- RestApi.basics4 -->
+      <class name="RestApi.basics">
+        <test-method status="PASS" signature="test1()[pri:0, instance:RestApi.basics@1353778]" name="test1" duration-ms="775" started-at="2018-01-30T14:31:13Z" finished-at="2018-01-30T14:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- RestApi.basics -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

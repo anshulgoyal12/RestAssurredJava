@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="RestApi.basics9">
+        <methods>
+          <include name="getLatestTweet"/>
+          <include name="createTweet"/>
+          <include name="deleteTweet"/>
+        </methods>
+      </class> <!-- RestApi.basics9 -->
+      <class name="RestApi.basics3">
+        <methods>
+          <include name="envData"/>
+        </methods>
+      </class> <!-- RestApi.basics3 -->
+      <class name="RestApi.basics8">
+        <methods>
+          <include name="envData"/>
+        </methods>
+      </class> <!-- RestApi.basics8 -->
+      <class name="RestApi.basics7">
+        <methods>
+          <include name="envData"/>
+        </methods>
+      </class> <!-- RestApi.basics7 -->
+      <class name="RestApi.basics6">
+        <methods>
+          <include name="envData"/>
+        </methods>
+      </class> <!-- RestApi.basics6 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

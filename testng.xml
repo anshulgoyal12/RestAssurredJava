@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="resources.ExtentReporterNG"></listener>
+	</listeners>
+	
+  <test name="Test">
+    <classes>
+      <class name="RestApi.basics2"/>
+      <class name="RestApi.basics4"/>
+      <class name="RestApi.basics"/>
+      <class name="RestApi.basics3"/>
+      <class name="RestApi.basics6"/>
+      <class name="RestApi.basics5"/>
+      <class name="RestApi.basics8"/>
+      <class name="RestApi.basics7"/>
+      <class name="RestApi.basics9"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

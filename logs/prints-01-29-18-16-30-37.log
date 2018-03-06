@@ -1,0 +1,12 @@
+16:29:04.998 [main] INFO  RestApi.basics3 - Hosting Informationhttps://maps.googleapis.com
+16:29:05.404 [main] INFO  RestApi.basics3 - responseString
+16:29:05.416 [main] INFO  RestApi.basics3 - placeId
+16:30:37.283 [main] INFO  RestApi.basics3 - Hosting Information https://maps.googleapis.com
+16:30:37.969 [main] INFO  RestApi.basics3 - {
+   "id" : "b46d02dcff4cb20b1f8683c9daa512f8196b2c32",
+   "place_id" : "qgYvCi0wMDAwMDA4NDQ3ZjJmODFmOjZiMTJhZTM3YjQ3OmE1YTI0ODBlMTEyODYwNWY",
+   "reference" : "CkQxAAAAzWqj4g4d58ZvW2dOzFMSXw52lISP7Je-Qfr_g-MdiyLeMTCfx7mIYn0BEbp2qmq6H6-QgGEeFKU7ZwHp8E3uqxIQbsr9IHTwyf8A5PyWrK5dRhoUzDBvFmI4FnXbAV-r4BJKAmduut8",
+   "scope" : "APP",
+   "status" : "OK"
+}
+

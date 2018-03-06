@@ -1,0 +1,10 @@
+13:38:24.685 [main] INFO  RestApi.basics3 - qgYvCi0wMDAwMDA4NDQ3ZjJmODFmOjZiMTJhZTM3YjQ3OjYzY2I2Y2QwNzc0ZTk0MzU
+14:29:15.912 [main] INFO  RestApi.basics3 - Hosting Information https://maps.googleapis.com
+14:29:16.218 [main] INFO  RestApi.basics3 - {
+   "id" : "aa9112778b48b1e14dc924e94c33cea07abd31fa",
+   "place_id" : "qgYvCi0wMDAwMDA4NDQ3ZjJmODFmOjZiMTJhZTM3YjQ3Ojk2MjFhNWQ0NTM4ZTJhMGU",
+   "reference" : "CkQxAAAAfX7NSQAt919iRFBZCo2n4UhNW6CjGWupiYs0pYW3X6ZsWRGz_inDBBNZ5i05FT3XMVHCKlzi3ohwcf-slXeQ8RIQ4WfHzG7s8TZYH5PsOciLwxoUrQrCV4_WpdAUySxgwbTTcU0o2Bg",
+   "scope" : "APP",
+   "status" : "OK"
+}
+
